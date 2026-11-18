@@ -1,0 +1,13 @@
+# Images and media are on the CWD CDN:
+# https://media.cwd-cdn.com/gaslight-theatre/
+images/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.svg
+*.mp4
+.DS_Store
+Thumbs.db
+desktop.ini
